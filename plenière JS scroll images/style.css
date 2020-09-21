@@ -4,7 +4,7 @@
 }
 
 #section1 {
-    background-image: url("/img/cover-01.jpg");
+    background-image: url("img/cover-01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: black; */
@@ -22,11 +22,11 @@
     margin-left: 15vw;
     margin-top: 25vh;
 
-    
+
 }
 
 #section2 .wrapper {
-    background-image: url("/img/a-01.jpg");
+    background-image: url("img/a-01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
